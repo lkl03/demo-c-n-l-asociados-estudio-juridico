@@ -1,2 +1,7 @@
-# demo-c-n-l-asociados-estudio-juridico
-Demo web para C.n.l. Asociados - Estudio Juridico — diseñada por eterlab.
+# C.n.l. Asociados - Estudio Juridico
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
